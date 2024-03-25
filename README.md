@@ -104,7 +104,7 @@ You can find the website here: https://rick-roll.zip
 
 ## jsulgrove.me
 
-A friend made a deal with my that I would host his personal blog website if he helps design my rick-roll.zip website. Since he is a Software Developer, he has more skill in that area, while I have more experience in IT. He doesn't have to pay a company to host his website, and I get a better designed website. 
+A friend made a deal with me that I would host his personal blog website if he helps design my rick-roll.zip website. Since he is a Software Developer, he has more skill in that area, while I have more experience in IT. He doesn't have to pay a company to host his website, and I get a better designed website. 
 
 My friend has experience with .NET, that is what he decided to build his website with. It is not the easiest process to host .NET with NGINX, so I used Windows Server 2019 and Microsoft IIS. I also used Cloudflare Tunneling to make the Website public without port forwarding. I also used some Cloudflare rules to redirect the basic `jsulgrove.me` to `www.jsulgrove.me.` So no matter what you type, it redirects to the www. website.  
 
